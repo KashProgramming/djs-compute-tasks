@@ -1,7 +1,7 @@
 # djs-compute-tasks
 Tasks for DJS Compute
 
-Task 2:
+Data Analytics and Machine Learning Task 2:
 1. In this Jupyter Notebook, I first imported the necessary python libraries that can be used to analyse data.
 2. Loaded the csv data in a pandas dataframe.
 3. Examined data to understand data types and the null values using functions like head, info, describe and shape.
